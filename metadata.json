@@ -1,0 +1,6 @@
+{
+  "name": "WALID QR Generator",
+  "description": "A professional and elegant QR code generator running completely client-side.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
